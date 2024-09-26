@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\heros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\dragonnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\orque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\nain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\humain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\monpc\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\loup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "De.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\De.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\De.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\De.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\De.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:15:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orque.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:20:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nain.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:20:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loup.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:19:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Humain.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:19:28.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dragonnet.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:19:06.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monstre.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:17:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heros.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:17:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
+              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
+              "ToolTip": "C:\\Users\\MonPC\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:13:28.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
