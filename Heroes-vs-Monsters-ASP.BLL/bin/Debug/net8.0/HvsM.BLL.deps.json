@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HvsM.BLL/1.0.0": {
+        "dependencies": {
+          "HvsM.DAL": "1.0.0"
+        },
+        "runtime": {
+          "HvsM.BLL.dll": {}
+        }
+      },
+      "HvsM.DAL/1.0.0": {
+        "runtime": {
+          "HvsM.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HvsM.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HvsM.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

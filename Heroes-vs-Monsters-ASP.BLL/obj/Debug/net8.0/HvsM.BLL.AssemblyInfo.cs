@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HvsM.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d502f7a062dffc34e6684b74eb1c31467f05333e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HvsM.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HvsM.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

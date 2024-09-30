@@ -9,14 +9,13 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
     public abstract class Monstre : Personnage
     {
         #region Propriétés
-        public int Or { get; protected set; }
-        public int Cuir { get; protected set; }
+
         #endregion
         #region Constructeurs
-        protected Monstre(string nom) : base(nom)
-        {
             De d6 = new De(1, 6);
             De d4 = new De(1, 4);
+        protected Monstre() : base()
+        {
             Or = d6.Jetdede();
             Cuir = d4.Jetdede();
         }

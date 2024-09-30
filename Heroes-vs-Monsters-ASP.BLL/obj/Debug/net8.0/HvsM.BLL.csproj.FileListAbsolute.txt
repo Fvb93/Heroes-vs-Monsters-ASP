@@ -1,0 +1,16 @@
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.AssemblyInfoInputs.cache
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.AssemblyInfo.cs
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.sourcelink.json
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\bin\Debug\net8.0\HvsM.BLL.deps.json
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\bin\Debug\net8.0\HvsM.BLL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\bin\Debug\net8.0\HvsM.BLL.pdb
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\bin\Debug\net8.0\HvsM.DAL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\bin\Debug\net8.0\HvsM.DAL.pdb
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.csproj.AssemblyReference.cache
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.csproj.Up2Date
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\refint\HvsM.BLL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\HvsM.BLL.pdb
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.BLL\obj\Debug\net8.0\ref\HvsM.BLL.dll

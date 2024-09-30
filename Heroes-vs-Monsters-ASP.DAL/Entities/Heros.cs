@@ -23,6 +23,7 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
             PointsDeVie = PointDeVieMax;
             Console.WriteLine($"{Nom} restaure ses points de vie après ce dur combat !");
         }
+
         #endregion
     }
 }

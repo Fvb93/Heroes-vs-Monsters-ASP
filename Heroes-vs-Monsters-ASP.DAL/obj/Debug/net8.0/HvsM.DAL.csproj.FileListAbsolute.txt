@@ -1,0 +1,12 @@
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.AssemblyInfoInputs.cache
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.AssemblyInfo.cs
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.sourcelink.json
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\bin\Debug\net8.0\HvsM.DAL.deps.json
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\bin\Debug\net8.0\HvsM.DAL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\bin\Debug\net8.0\HvsM.DAL.pdb
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\refint\HvsM.DAL.dll
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\HvsM.DAL.pdb
+C:\Users\studentdot0410\Documents\TechniFutur\ASP\Heroes-vs-Monsters-ASP\Heroes-vs-Monsters-ASP.DAL\obj\Debug\net8.0\ref\HvsM.DAL.dll

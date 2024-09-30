@@ -1,8 +1,19 @@
-﻿@{
+﻿@using Heroes_vs_Monsters_ASP.DAL.Entities
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    @{
+        Jeu jeu = new Jeu();
+
+        Dictionary<string, Monstre> listeMonstres = jeu.Init();
+        foreach (var monstre in listeMonstres)
+        {
+            
+            <h1> @monstre.Value.Nom</h1>
+        }
+    }
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>

@@ -9,12 +9,22 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
     public abstract class Personnage
     {
         #region Propriétés
-        public string Nom { get; protected set; }
+        public string? Nom { get; protected set; }
         public int Endurance { get; protected set; }
         public int Force { get; protected set; }
         public int PointsDeVie { get; protected set; }
+        public int Or { get; protected set; }
+        public int Cuir { get; protected set; }
         #endregion
         #region Constructeur
+        protected Personnage()
+        { 
+            Endurance = CalculForceouEndu();
+            Force = CalculForceouEndu();
+            PointsDeVie = Endurance + Modificateur(Endurance);
+            Or = 0;
+            Cuir = 0;
+        }
         protected Personnage(string nom)
         {
             Nom = nom;
@@ -58,26 +68,25 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
             }
             return modificateur;
         }
-        public void Frappe(Personnage p)
+        public int Frappe(Personnage p)
         {
             De d4 = new De(1, 4);
             int modificateur = Modificateur(Force);
             int degat = d4.Jetdede() + modificateur;
             p.PointsDeVie -= degat;
-            Console.WriteLine($"{Nom} frappe {p.Nom}");
+            return degat;
+        }
+        public void AffichageDegat(Personnage attaquant, Personnage recevant,int degat) {
+            Console.WriteLine($"{attaquant.Nom} frappe {recevant.Nom}");
             if (degat > 1)
             {
-                Console.WriteLine($"{p.Nom} perd {degat} points de vie");
+                Console.WriteLine($"{recevant.Nom} perd {degat} points de vie");
             }
             else
             {
-                Console.WriteLine($"{p.Nom} perd {degat} point de vie");
+                Console.WriteLine($"{recevant.Nom} perd {degat} point de vie");
             }
-            if (p.PointsDeVie <= 0)
-            {
-                Console.WriteLine($"{p.Nom} est mort !");
-            }
-        }
             #endregion
+        }
     }
 }
