@@ -9,14 +9,15 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
 {
     public class Jeu
     {
-        public Jeu(Dictionary<string, Monstre> liste)
+        public Dictionary<string, Monstre> Monstres { get; set; }
+        public Jeu()
         {
-            liste = Init();
+            Init();
         }
 
-        public Dictionary<string, Monstre> Init () 
+        private void Init () 
         {
-            Dictionary<string, Monstre> Monstres = new Dictionary<string, Monstre>();
+            Monstres = new Dictionary<string, Monstre>();
             for (int i = 1; i <= 10; i++)
             {
                 Random random = new Random();
@@ -39,7 +40,6 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
                 }
                 
             }
-            return Monstres;
         }
         public void Combat(Heros hero, Monstre monstre)
         {

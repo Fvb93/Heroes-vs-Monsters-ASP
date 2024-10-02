@@ -8,34 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\dragonnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\humain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A8231DB-8F5D-435B-A50F-EFFBEAEB07F5}|HvsM.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\hereos vs monster asp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A8231DB-8F5D-435B-A50F-EFFBEAEB07F5}|HvsM.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\loup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\heros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\orque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B731EE-6410-406A-8816-0AD76B2547BB}|..\\Heroes-vs-Monsters-ASP.DAL\\HvsM.DAL.csproj|c:\\users\\studentdot0410\\documents\\technifutur\\asp\\heroes-vs-monsters-asp\\heroes-vs-monsters-asp.dal\\entities\\nain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,9 +25,9 @@
               "Title": "Jeu.cs",
               "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
               "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs*",
+              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Jeu.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:04:25.733Z",
               "IsPinned": true,
@@ -67,128 +39,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T14:41:59.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Hereos vs Monster ASP\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-30T14:30:52.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Nain.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Nain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:24:02.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Loup.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Loup.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:24:15.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dragonnet.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Dragonnet.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowDAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:24:04.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Orque.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Orque.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:23:42.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Monstre.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Monstre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:23:28.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Humain.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Humain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:03:39.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Heros.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Heros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:03:20.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Personnage.cs",
-              "DocumentMoniker": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
-              "RelativeDocumentMoniker": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
-              "ToolTip": "C:\\Users\\studentdot0410\\Documents\\TechniFutur\\ASP\\Heroes-vs-Monsters-ASP\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
-              "RelativeToolTip": "..\\Heroes-vs-Monsters-ASP.DAL\\Entities\\Personnage.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwFcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:02:38.562Z",
               "EditorCaption": ""
             }
           ]

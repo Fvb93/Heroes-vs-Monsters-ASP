@@ -6,10 +6,10 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     @{
-        Dictionary<string, Monstre> listeMonstres = new Dictionary<string, Monstre>;
-        Jeu jeu = new Jeu(listeMonstres);
+        
+        Jeu jeu = new Jeu();
 
-        foreach (var monstre in listeMonstres)
+        foreach (var monstre in jeu.Monstres)
         {
             
             <h1> @monstre.Value.Nom</h1>
