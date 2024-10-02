@@ -6,9 +6,9 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     @{
-        Jeu jeu = new Jeu();
+        Dictionary<string, Monstre> listeMonstres = new Dictionary<string, Monstre>;
+        Jeu jeu = new Jeu(listeMonstres);
 
-        Dictionary<string, Monstre> listeMonstres = jeu.Init();
         foreach (var monstre in listeMonstres)
         {
             

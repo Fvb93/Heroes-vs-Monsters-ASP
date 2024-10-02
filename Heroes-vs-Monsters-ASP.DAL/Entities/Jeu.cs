@@ -9,6 +9,11 @@ namespace Heroes_vs_Monsters_ASP.DAL.Entities
 {
     public class Jeu
     {
+        public Jeu(Dictionary<string, Monstre> liste)
+        {
+            liste = Init();
+        }
+
         public Dictionary<string, Monstre> Init () 
         {
             Dictionary<string, Monstre> Monstres = new Dictionary<string, Monstre>();
